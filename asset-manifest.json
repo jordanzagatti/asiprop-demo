@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/asiprop-demo/static/css/main.3438900d.css",
-    "main.js": "/asiprop-demo/static/js/main.4006f1f3.js",
+    "main.js": "/asiprop-demo/static/js/main.a9461f16.js",
     "static/media/logo.png": "/asiprop-demo/static/media/logo.dd30224e69260087629e.png",
     "index.html": "/asiprop-demo/index.html",
     "main.3438900d.css.map": "/asiprop-demo/static/css/main.3438900d.css.map",
-    "main.4006f1f3.js.map": "/asiprop-demo/static/js/main.4006f1f3.js.map"
+    "main.a9461f16.js.map": "/asiprop-demo/static/js/main.a9461f16.js.map"
   },
   "entrypoints": [
     "static/css/main.3438900d.css",
-    "static/js/main.4006f1f3.js"
+    "static/js/main.a9461f16.js"
   ]
 }
